@@ -1,0 +1,3 @@
+db Email = bogife5767@exitbit.com
+db Password = Shahin10#@
+db api = mongodb+srv://PandaFood:Shahin10#@@cluster0.z47wetk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
